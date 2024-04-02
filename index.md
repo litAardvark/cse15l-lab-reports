@@ -1,8 +1,8 @@
 ## We outchea!
 
 Proof:
->Blockquote * __Bold__ We are.
-* __Bold__ We are outside.
+> * __We are.__
+> * __We are outside.__
 
->Blockquote By the Common Sense Theorem, we outchea!
+> By the Common Sense Theorem, we outchea!
   
