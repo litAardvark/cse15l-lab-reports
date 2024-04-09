@@ -34,8 +34,7 @@ _Absolute path before command_: `C:\Users\kwadw\OneDrive\Desktop\SP24\CSE\CSE15L
 _Output:_ An error message indicating no such path exists.
 \
 _Explanation_: This is **AN ERROR** because the command `cd` is for changing the working directory. A file is not a directory so that was to be expected.
-\
-\
+
 ## Command: `ls`
 `ls with no argument`
 \
