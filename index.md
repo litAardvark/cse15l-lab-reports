@@ -1,8 +1,2 @@
-## We outchea!
-
-Proof:
-> * __We are.__
-> * __We are outside.__
-
-> __By the Common Sense Theorem, we outchea!__
-  
+## REPORTS
+[Lab Report 1](https://litaardvark.github.io/cse15l-lab-reports/Lab1.html)
