@@ -9,8 +9,20 @@
 \
 ![Screenshot 1 of chat](chat1.png)
 \
+The ChatServer class calls the handleRequest method in ChatHandler with an URI instance called *url* that is then parsed to extract the */add-message* command.
+
+As can be seen in the image, *url* contains the message "Moshi moshi" by the user Sako.
+
+The handleRequest method then appends the user and message to the display string which is returned to the browser.
 \
 ![Screenshot 2 of chat](chat2.png)
+\
+The ChatServer class calls the handleRequest method in ChatHandler with an URI instance called *url*.
+
+*url* contains the message "Hello Sako" by the user Mutchy.
+
+The handleRequest method appends the user and message to the display string.
+\
 # Part 2
 ## private key on local
 \
