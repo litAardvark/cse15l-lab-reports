@@ -4,12 +4,12 @@
 ## ChatServer.java
 \
 ![Screenshot of my ChatServer code](code.png)
-## /add-message
+## add-message request
 \
 \
 ![Screenshot 1 of chat](chat1.png)
 \
-The ChatServer class calls the handleRequest method in ChatHandler with an URI instance called *url* that is then parsed to extract the */add-message* command.
+The ChatServer class calls the handleRequest method in ChatHandler with an URI instance called *url* that is then parsed to extract the */add-message* request.
 
 As can be seen in the image, *url* contains the message "Moshi moshi" by the user Sako.
 
