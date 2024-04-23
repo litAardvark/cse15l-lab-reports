@@ -21,7 +21,6 @@ The ChatServer class calls the handleRequest method in ChatHandler with an URI i
 *url* contains the message "Hello Sako" by the user Mutchy.
 
 The handleRequest method appends the user and message to the display string.
-
 # Part 2
 ## private key on local
 \
