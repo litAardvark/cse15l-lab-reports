@@ -1,4 +1,5 @@
 # **LAB REPORT 3**
+# PART 1
 ## Bug: ArrayExamples.reverseInPlace()
 ## Failure-inducing input
 ```
@@ -37,8 +38,7 @@ public class ArrayTestsForLabReport {
 }
 ```
 ## Symptom
-\
-\
+![Screenshot test run](symptom.png)
 
 ## Buggy Code
 ```
@@ -58,3 +58,7 @@ public class ArrayTestsForLabReport {
     }
   }
 ```
+## Explanation of code fix
+The bug in the original code was that the method was overwriting the data in the array too early. By cloning the orginal array, I kept the orginal data which could be placed in the array in reverse.
+
+# PART 2
