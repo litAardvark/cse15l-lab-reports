@@ -1,4 +1,4 @@
-# **LAB REPORT 1**
+# **LAB REPORT 3**
 ## Bug: ArrayExamples.reverseInPlace()
 ## Failure-inducing input
 ```
