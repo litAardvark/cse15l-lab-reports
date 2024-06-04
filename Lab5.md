@@ -15,9 +15,13 @@ It looks like it can't find my TestListExamples class because I have it running 
 Structure of working directory:\
 ![Screenshot of directory](labreport_5_directree.png)
 Contents of grade.sh:\
-![Screenshot of grade.sh](labreport_5_script.png)
+![Screenshot of grade.sh](labreport_5_script2.png)
 Contents of TestListExamples:\
 ![Screenshot of TestListExamples](labreport_5_test.png)
+Command that triggers bug:\
+`bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected`\
+Description of what to edit:\
+There are a few bugs in the grading script. The fix for the first bug, the one seen in the symptom, is to replace `TestListExamples.java` on line 26 of grade.sh with `TestListExamples`. Another bug is there is a spelling mistake on line 14 so replace `TestListExanples.java` with `TestListExamples.java`. The `echo` command on line 15 should be inside the if-then statement on line 18, 19 because it will interfere with properly checking if a compilation was successful since it changes the exit code value of `$?`.
 
 
 ## Part 2 - Reflection
