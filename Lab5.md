@@ -1,6 +1,6 @@
 # **LAB REPORT 5**
 ## Original post from student
-![Screenshot of symptom](labreport_5_symptom.png)
+![Screenshot of symptom](labreport_5_script.png)
 When I run my grader script on a student submission that has no bugs, it fails my tests. I have two tests in my TestListExamples.java that I know works because I used it to test my own ListExamples. Could the student submission be buggy? But I am using the repo that has the bugs corrected.
 
 ## TA response
