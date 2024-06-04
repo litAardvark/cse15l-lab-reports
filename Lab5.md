@@ -7,6 +7,17 @@ When I run my grader script on a student submission that has no bugs, it fails m
 Is there a way to see the exact output from compiling and running the files in your script?
 
 ## Follow up student post
+I saved my compiling and running output in a file. Here is what it contains after another run of my script.
+![Screenshot of results.txt](labreport_5_catresults.png)
+It looks like it can't find my TestListExamples class because I have it running TestListExamples.java in my script. The tests it's running are not my tests. I think I need to check my script a little closer.
+
+## Setup information
+Structure of working directory:\
+![Screenshot of directory](labreport_5_directree.png)
+Contents of grade.sh:\
+![Screenshot of grade.sh](labreport_5_script.png)
+Contents of TestListExamples:\
+![Screenshot of TestListExamples](labreport_5_test.png)
 
 
 ## Part 2 - Reflection
