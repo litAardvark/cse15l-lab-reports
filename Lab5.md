@@ -1,9 +1,10 @@
 # **LAB REPORT 5**
 ## Original post from student
 ![Screenshot of symptom](labreport_5_symptom.png)
-When I run my grader script on a student submission that has no bugs, it fails one test then exits. I have two tests in my TestListExamples.java but it only runs one test. I think it is running a different TestListExamples, maybe there is one in the student submission?
+When I run my grader script on a student submission that has no bugs, it fails my tests. I have two tests in my TestListExamples.java that I know works because I used it to test my own ListExamples. Could the student submission be buggy? But I am using the repo that has the bugs corrected.
 
 ## TA response
+Is there a way to see the exact output from compiling and running the files in your script?
 
 ## Follow up student post
 
