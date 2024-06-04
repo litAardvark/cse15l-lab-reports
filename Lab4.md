@@ -9,7 +9,7 @@ The `ssh` command  connects me to the remote ieng6 computers.
 ## Clone fork
 ![Screenshot of git clone](lab7_clone.png)
 \
-Keys pressed: `<up><up><up><enter>`, `ls<enter>`, `cd lab7<enter>`, then `ls<enter>`. The `git clone` command was 3 up in the command history. The `cd` command was to get me into the right working directory, and the `ls` was to orient myself.
+Keys pressed: `<up><up><up><enter>`, `ls<enter>`, `cd lab7<enter>`, then `ls<enter>`. The `git clone` command was 3 up in the command history and I used it to clone my fork of the lab onto the ieng6 computer. The `cd` command was to get me into the right working directory, and the `ls` was to orient myself.
 
 ## Run and Fail Tests
 ![Screenshot of failing test](lab7_compile_run.png)
